@@ -75,40 +75,49 @@ h3 {
     color: #bbbbbb;
     margin: 20px 0 30px 0;
 }
+
 h2 {
     text-align: center;
     font-size: 30px;
     color: #bbbbbb;
     margin: 20px 0 30px 0;
 }
-nav a : hover {
+
+nav a: hover {
     background: black;
 }
+
 nav a {
     font-size: 18px;
-    color: rgba(155, 165, 125, 0.5); 
+    color: rgba(155, 105, 125, 0.5);
 }
+
 footer a {
     font-size: 18px;
     color: rgba(255, 255, 255, 1);
 }
+
 .navbar-brand {
     font-size: 20px;
     color: black;
     font-style: bold;
 }
-.btn,.btn-primary{
+
+.btn,
+.btn-primary {
     margin: 5px 5px 5px 5px;
 }
+
 .btn-secondary {
-    margin:10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
     color: black;
     font-size: 18px;
     font-style: bold;
 }
+
 i {
     color: black;
-    font-size:20px;
+    font-size: 20px;
 }
 
 p {
@@ -191,7 +200,7 @@ div.col-md-4 {
 .footer {
     background-color: #414141;
     width: 100%;
-    position: absolute;
+    position: relative;
     text-align: left;
     font-family: sans-serif;
     font-weight: bold;
